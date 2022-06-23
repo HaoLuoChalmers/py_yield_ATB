@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Created by Hao Luo at 6/8/22
 
-"""Ecoli_core_tield_rate.py
+"""Ecoli_core_yield_rate.py
 :description : script
 :param : 
 :returns: 
